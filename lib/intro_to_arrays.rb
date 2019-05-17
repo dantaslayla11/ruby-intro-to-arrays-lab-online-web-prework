@@ -31,7 +31,8 @@ end
   end 
   
   def length_of_array(length)
-    @programming_languages[]
+    @programming_languages[8]
+  end
   
   
   
