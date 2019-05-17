@@ -26,8 +26,8 @@ end
     @south_east_asia[0]
   end
   
-  def last_element_with_array_methods()
-  
+  def last_element_with_array_methods(last_country)
+    @
   
   
   
