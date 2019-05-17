@@ -10,8 +10,8 @@ def array_with_two_elements
   @Array = [1, 2]
 end 
 
-def my_first_element
-  taylor_swift[0]
+def first_element
+  taylor_swift[1]
 end
 
 
