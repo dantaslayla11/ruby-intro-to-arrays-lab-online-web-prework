@@ -30,7 +30,7 @@ end
     @south_east_asia[-1]
   end 
   
-  def 
+  def length_of_array()
   
   
   
