@@ -10,8 +10,7 @@ def array_with_two_elements
   @Array = [1, 2]
 end 
 
-def 
-end
+
 
 
   
