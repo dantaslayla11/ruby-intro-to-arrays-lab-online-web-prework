@@ -15,7 +15,10 @@ def first_element(my_first_element)
 end
 
 def third_element(my_third_element)
-  @taylor_swift[]
+  @taylor_swift[2]
+end 
+
+def 
   
   
   
