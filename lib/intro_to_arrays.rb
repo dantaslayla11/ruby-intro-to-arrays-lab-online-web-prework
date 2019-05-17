@@ -14,7 +14,7 @@ def first_element(my_first_element)
   @taylor_swift[0]
 end
 
-def first_element(my_first_element)
+def third_element(my_first_element)
   @taylor_swift[]
   
   
